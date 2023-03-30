@@ -1,7 +1,7 @@
 
 
-export const DcPages = () => {
+export const DcPage = () => {
     return (
-        <h1>DcPages</h1>
+        <h1>DcPage</h1>
     )
 }
